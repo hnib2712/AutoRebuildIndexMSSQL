@@ -1,0 +1,9 @@
+D:\Project\RebuildSql\RebuildSql\bin\Debug\RebuildSql.exe.config
+D:\Project\RebuildSql\RebuildSql\obj\Debug\RebuildSql.csprojResolveAssemblyReference.cache
+D:\Project\RebuildSql\RebuildSql\obj\Debug\RebuildSql.Form1.resources
+D:\Project\RebuildSql\RebuildSql\obj\Debug\RebuildSql.Properties.Resources.resources
+D:\Project\RebuildSql\RebuildSql\obj\Debug\RebuildSql.csproj.GenerateResource.Cache
+D:\Project\RebuildSql\RebuildSql\bin\Debug\RebuildSql.exe
+D:\Project\RebuildSql\RebuildSql\bin\Debug\RebuildSql.pdb
+D:\Project\RebuildSql\RebuildSql\obj\Debug\RebuildSql.exe
+D:\Project\RebuildSql\RebuildSql\obj\Debug\RebuildSql.pdb
